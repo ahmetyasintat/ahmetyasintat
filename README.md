@@ -25,12 +25,15 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ahmetyasintat}/count.svg" alt="ahmetyasintat :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyasintat&langs_count=10&theme=tokyonight&layout=compact" alt="ahmetyasintat :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmetyasintat&show_icons=true&theme=synthwave" alt="ahmetyasintat :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmetyasintat&show_icons=true&theme=radical"
+/></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+
+
+
