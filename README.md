@@ -18,21 +18,23 @@ You can click the Preview link to take a look at your changes.
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10780031/sudipto-ghosh)](https://stackoverflow.com/users/10780031/sudipto-ghosh)
 [![HackRank](https://img.shields.io/badge/-HackerRank-222222?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/h2002070281)](https://www.hackerrank.com/h200207028)
 
-
+<div align="center">
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ahmetyasintat}/count.svg" alt="ahmetyasintat :: Visitor's Count" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyasintat&langs_count=10&theme=tokyonight&layout=compact" alt="ahmetyasintat :: Top Langs" /></p>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyasintat&langs_count=10&theme=tokyonight&layout=compact"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyasintat&theme=tokyonight&layout=compact" /><a>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahmetyasintat&show_icons=true&theme=radical"
-/></p>
+
+<a href="https://github-readme-stats.vercel.app/api?username=ahmetyasintat&show_icons=true&theme=synthwave"><img src="https://github-readme-stats.vercel.app/api?username=ahmetyasintat&show_icons=true&theme=synthwave"
+/></a>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+</div>
 
 
 
