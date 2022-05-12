@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=ahmetyasintat&show_icons=true&theme=synthwave&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api?username=ahmetyasintat&show_icons=true&theme=synthwave&include_all_commits=true"
+<a href="https://github-readme-stats.vercel.app/api?username=ahmetyasintat&show_icons=true&theme=synthwave&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api?username=ahmetyasintat&show_icons=true&theme=synthwave"
 /></a>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
