@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ahmetyasintat}/count.svg" alt="ahmetyasintat :: Visitor's Count" /></p>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyasintat&langs_count=10&theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyasintat&theme=tokyonight" /><a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyasintat&langs_count=10&theme=tokyonigh&layout=defult&"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetyasintat&theme=tokyonight&layout=defult&" /><a>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
